@@ -601,3 +601,10 @@ https://tencent-css.byteplaycdn.com/a901ad6ac90463fef8349d6cfb85accb/6A47A12F/Co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
 https://tencent-css.byteplaycdn.com/4de77d10d3ae1432a2e50fb2596416a6/6A4901EA/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="SPORTS",MOTORVISION+
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/02.m3u8
+ 
+
