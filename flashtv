@@ -14,6 +14,17 @@
 ========================================================================
 🔸🔸 Collected by MZBAMZ menampilkan playlist >>> NASIONAL TV
 ========================================================================
+
+
+🔷🔷🔷🔷TES CHANEL
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="TESS",TES CHANELL(VS+)
+https://cdnjktidc01.transvision.co.id/riutx01-3759fb8cf9df88e53c5c8649d1c9a0bb/dash/RHVuaWEgTGFpbg/manifest.mpd
+ 
  
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHsVWBN/20250602-131033.png" group-title="INDONESIA TV",INFO NYAWER NGOPI
