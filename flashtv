@@ -7,7 +7,7 @@ uji chanell..
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV", TES SCTV
-https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/dash/U0NUVi1teQ/manifest.mpd
+//https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/dash/U0NUVi1teQ/manifest.mpd
  
 
  
@@ -16,7 +16,7 @@ https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w339594553_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODUxNTAwMzU2MDMmd293emF0b2tlbmhhc2g9cGJhd1BsVWhnR1Vuclp1M3pKWW1DbC0yWlE2dXEybld2VkMzbnNyTTZ0Yz0=.m3u8
+//https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w339594553_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODUxNTAwMzU2MDMmd293emF0b2tlbmhhc2g9cGJhd1BsVWhnR1Vuclp1M3pKWW1DbC0yWlE2dXEybld2VkMzbnNyTTZ0Yz0=.m3u8
  
 
 
