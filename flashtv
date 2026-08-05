@@ -8,8 +8,8 @@ uji chanell..
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV", TES SCTV
 //https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/dash/U0NUVi1teQ/manifest.mpd 
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?hdntl=exp=1785929414~acl=%2fstream%2f204%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cec25e992d8092803deb0a11dba2d1cbb284cc890d8deb06b9675b5cd0094deb
-
+//https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?hdntl=exp=1785929414~acl=%2fstream%2f204%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cec25e992d8092803deb0a11dba2d1cbb284cc890d8deb06b9675b5cd0094deb
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/primary/aac/aac-1785702698_009997117440.m4s?hdntl=exp=1785929712~acl=/stream/204/file/stream.mpd!/stream/204/file/*/aac/*!/stream/204/file/*/*-2160p/*!/stream/204/file/*/*-1440p/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=allUsers~data=hdntl~hmac=76f744e42b7d145d387effa086f642e6845ce1f4ce2d95f5ba4c5dd91ff38d5f
 
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="INDONESIA TV", Trans TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
