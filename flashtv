@@ -8,8 +8,7 @@ uji chanell..
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV", TES SCTV
 //https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/dash/U0NUVi1teQ/manifest.mpd 
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?hdntl=exp=1785926087~acl=%2fstream%2f204%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=9e3b2bab8797969d60e6c1ccba97a26cf8853ae5729e42eeb0f22c2118968949
-
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?
  
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="INDONESIA TV", Trans TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -17,7 +16,7 @@ https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/str
 #EXTVLCOPT:http-referrer=https://maxstream.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 //https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w339594553_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODUxNTAwMzU2MDMmd293emF0b2tlbmhhc2g9cGJhd1BsVWhnR1Vuclp1M3pKWW1DbC0yWlE2dXEybld2VkMzbnNyTTZ0Yz0=.m3u8
- https://tencent-css-live.byteplaycdn.com/vos/DASH/daaitv/manifest.mpd?encp=9S_KPzO25B2ZJvsxBfodGA&uid=&expp=1785937452
+https://tencent-css-live.byteplaycdn.com/vos/DASH/daaitv/manifest.mpd?encp=9S_KPzO25B2ZJvsxBfodGA&uid=&expp=1785937452
 
 
 🔹🔹🔹🔹🔹🔹🔹MNC PREMIUM🔹🔹🔹🔹🔹🔹🔹
