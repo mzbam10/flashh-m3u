@@ -8,8 +8,9 @@ uji chanell..
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV", TES SCTV
 //https://cdnjktbpid02.transvision.co.id/riutx01-e424d1f3d044a75d4a6f4fef9e315639/dash/U0NUVi1teQ/manifest.mpd 
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?
- 
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?hdntl=exp=1785929414~acl=%2fstream%2f204%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cec25e992d8092803deb0a11dba2d1cbb284cc890d8deb06b9675b5cd0094deb
+
+
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="INDONESIA TV", Trans TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
