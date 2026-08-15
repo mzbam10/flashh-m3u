@@ -48,7 +48,12 @@ https://www.googleapis.com/drive/v3/files/1x3HmUHEH6tnRUNFiIEcvv-KqaYxvUZzB?alt=
 
 =====Jowo tv=====
  
- 
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="INDONESIA TV", Channel Jowo
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="INDONESIA TV" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", BAMZ_CHANEL JOWO
@@ -67,7 +72,8 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
  
  
 ____________________LINE HANACARAKA__________________
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="INDONESIA TV",Hanacaraka TV
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="INDONESIA TV",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -76,6 +82,25 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 
 --------TV NASIONAL------
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (max) 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+
+
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (max) 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
+
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (max) 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="INDONESIA TV",TVN MOVIES (TRANS2)
@@ -98,42 +123,10 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.0.0.1" group-title="INDONESIA TV", NET..
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="INDONESIA TV", KompasTV..
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrkEXrh.png?v=1.1.1.1" group-title="INDONESIA TV", BTV..
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="INDONESIA TV", Nusantara TV..
-http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="INDONESIA TV",BANDUNG•TV••🇮🇩
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
-https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="INDONESIA TV",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (max) 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
-
-
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (max) 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
-
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (max) 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 
 
@@ -147,10 +140,6 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="INDONESIA TV",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="INDONESIA TV", Channel Jowo
-http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV (intec)
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
