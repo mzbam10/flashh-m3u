@@ -23,7 +23,7 @@ uji chanell..
 #https://www.googleapis.com/drive/v3/files/1wgQK_ojzTno5GNlXIFyfjFcvKpOMGOqL?alt=media&key=AIzaSyDJrPQws7IxqkXUb65uYDftP8X2Mk_-IQM
  
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzkPdJQh/20250905-150353.png" group-title="INDONESIA",UPDATE TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzkPdJQh/20250905-150353.png" group-title="Indonesia Channels",UPDATE TV
 #https://www.googleapis.com/drive/v3/files/1ouxdyDulKJ9QzwEcH25oxZSjodjdM5ym?alt=media&key=AIzaSyDJrPQws7IxqkXUb65uYDftP8X2Mk_-IQM
 https://www.googleapis.com/drive/v3/files/1x3HmUHEH6tnRUNFiIEcvv-KqaYxvUZzB?alt=media&key=AIzaSyDJrPQws7IxqkXUb65uYDftP8X2Mk_-IQM
  
@@ -34,34 +34,26 @@ https://www.googleapis.com/drive/v3/files/1x3HmUHEH6tnRUNFiIEcvv-KqaYxvUZzB?alt=
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="INDONESIA", Channel Jowo
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Indonesia Channels", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="INDONESIA" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", BAMZ_CHANEL JOWO
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Indonesia Channels" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", BAMZ_CHANEL JOWO
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="INDONESIA", JOWO TV🔴
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="Indonesia Channels", JOWO TV🔴
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
  
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="INDONESIA", EDIE KOPLE ⚪
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="Indonesia Channels", JAWIR ⚪
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
  
- 
-____________________LINE HANACARAKA__________________
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="INDONESIA TV",Hanacaraka TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
